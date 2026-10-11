@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="stelleraFlix-halloween.png" width="120" alt="StelleraFlix" />
+<img src="../stelleraFlix-halloween.png" width="120" alt="StelleraFlix" />
 
 # StelleraFlix
 
